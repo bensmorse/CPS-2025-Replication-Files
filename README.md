@@ -1,6 +1,6 @@
 # Replication files for:
 
-> Ben Morse. "Strengthening the Rule of Law through Community Policing: Evidence from Liberia." (2024).
+> [Ben Morse. "Strengthening the Rule of Law through Community Policing: Evidence from Liberia." (2024)](https://doi.org/10.1177/00104140241252090).
 
 To replicate results, open `06_Code\LIB_MK4_Master.do`, update your directory, and run the file in its entirety.
 
